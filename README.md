@@ -1,6 +1,10 @@
 # Proyek SIAK-Mini (Sistem Informasi Akademik Mini)
 
 Ini adalah proyek sederhana yang dibuat untuk memenuhi tugas mata kuliah **Rekayasa Perangkat Lunak (Software Engineering)**.
+Nama: Bagas Aji Rasendria
+NIM: 255150200111018
+
+(File README.md ini dibuat dan dibantu pembuatannya oleh AI)
 
 ## Deskripsi Proyek
 
